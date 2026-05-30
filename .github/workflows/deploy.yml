@@ -38,7 +38,7 @@ jobs:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASS }}
-          server-dir: /vorota.artgroups.kz/
+          server-dir: /view.artgroups.kz/
           exclude: |
             **/.git*
             **/.git*/**
